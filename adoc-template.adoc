@@ -1,0 +1,9 @@
+// -*- mode: doc; coding:utf-8 -*-
+= Title
+:Author: satoyama
+:Email: %mail%
+:Revision: 0.1
+:Date: 2015/06/22
+
+:numbered:
+== Subtitle
