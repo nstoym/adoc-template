@@ -1,0 +1,2 @@
+# adoc-template
+AsciiDoc template
