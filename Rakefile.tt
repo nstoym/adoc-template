@@ -6,7 +6,7 @@ require 'asciidoctor'
 require 'asciidoctor/cli'
 require 'asciidoctor-diagram'
 
-doc = "<%= config.name %>.adoc"
+doc = "<%= config[:name] %>.adoc"
 basename = File.basename doc, ".*"
 desc "htmlへ変換"
 task :html do
