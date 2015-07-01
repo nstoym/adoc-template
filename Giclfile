@@ -1,0 +1,7 @@
+# -*-mode: ruby; codeing: utf-8-*-
+def create_adoc
+  adoc = "adoc-template.adoc"
+  template(adoc, "#{config[:name]}.adoc")
+  remove adoc
+end
+
